@@ -52,7 +52,7 @@ You can move the extracted folder to another location whenever you need to. No i
 - **Operating System:** Windows
 - **Architecture:** 64-bit Windows
 - **Distribution:** Portable application
-- **Hardware:** Designed to work on a wide range of hardware, including older systems based on Intel Socket 775 processors.
+- **Hardware:** Designed to work on a wide range of hardware, including older systems based on Intel Socket 775 processors and 8Gb RAM.
 
 The application focuses on practical functionality without requiring modern high-performance hardware.
 
