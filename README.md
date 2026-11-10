@@ -10,7 +10,7 @@ Image Tools is designed with a focus on simplicity, efficiency, and compatibilit
 
 ## Included Modules
 
-The current **Version 0.90** includes the following utilities:
+The current version (0.90) includes the following utilities:
 
 ### 1. Dataset Worker
 A tool for preparing and processing image datasets. It helps organize images and perform common dataset preparation tasks. The module is currently under development and will be included in the next version.
@@ -25,9 +25,9 @@ Converts PDF documents into individual image files. Supports configurable DPI se
 
 <img width="749" height="709" alt="pdf_to_images_main" src="https://github.com/user-attachments/assets/d7f9e9b7-9f43-4816-884e-89d0fd4a67eb" />
 
-### 4. Image Converter and resolution changes
+### 4. Image Converter
 Converts images between popular formats, including JPEG, PNG, WEBP, BMP, and TIFF. Provides format-specific conversion options and image processing settings.
-You can change the resolution of all images in a selected folder in batches (in bulk).
+Also supports batch resizing of all images in a selected folder, allowing you to change their resolution quickly and consistently.
 
 <img width="600" height="636" alt="image_converter_main" src="https://github.com/user-attachments/assets/9f4c222c-5a91-4c1f-9709-513f49490658" />
 <img width="600" height="698" alt="image_resolution_main" src="https://github.com/user-attachments/assets/33b31cbc-ed1d-45e1-be1e-74b4ce4c7bcf" />
@@ -66,4 +66,4 @@ In the future, Image Tools may become a commercial product, potentially offering
 
 ---
 
-**Developed by FOMIKS DEVELOP.**
+**Developed by FOMIKS DEVELOP. Version 0.90**
