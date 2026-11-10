@@ -38,7 +38,7 @@ All features and how the modules work are described in detail in the program's h
 
 Image Tools is distributed as a portable application. No traditional installation is required.
 
-1. Download the `ImageTools.zip` archive.
+1. Download the `ImageTools.zip` archive - https://github.com/FomikSer/Image_Tools/releases/tag/v0.90.
 2. Extract the archive to any folder on your disk.
 3. Open the extracted folder.
 4. Run `ImageTools.exe`.
